@@ -1,0 +1,5 @@
+{"name": "calculator-tool",
+"version": "1.0.1",
+"main": "./lib/calculator.js",
+"private": false
+}
